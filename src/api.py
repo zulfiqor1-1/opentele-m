@@ -449,7 +449,7 @@ class API(BaseObject):
             api_hash (`str`)         : `"eb06d4abfb49dc3eeb1aeb98ae0f581e"`
             device_model (`str`)     : `"Samsung SM-G998B"`
             system_version (`str`)   : `"SDK 31"`
-            app_version (`str`)      : `"8.4.1 (2522)"`
+            app_version (`str`)      : `"10.1.1"`
             lang_code (`str`)        : `"en"`
             system_lang_code (`str`) : `"en-US"`
             lang_pack (`str`)        : `"android"`
@@ -459,7 +459,7 @@ class API(BaseObject):
         api_hash = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
         device_model = "Samsung SM-G998B"
         system_version = "SDK 31"
-        app_version = "8.4.1 (2522)"
+        app_version = "10.1.1"
         lang_code = "en"
         system_lang_code = "en-US"
         lang_pack = "android"
@@ -474,7 +474,7 @@ class API(BaseObject):
             api_hash (`str`)         : `"3e0cb5efcd52300aec5994fdfc5bdc16"`
             device_model (`str`)     : `"Samsung SM-G998B"`
             system_version (`str`)   : `"SDK 31"`
-            app_version (`str`)      : `"8.4.1 (2522)"`
+            app_version (`str`)      : `"10.1.1"`
             lang_code (`str`)        : `"en"`
             system_lang_code (`str`) : `"en-US"`
             lang_pack (`str`)        : `"android"`
@@ -484,7 +484,7 @@ class API(BaseObject):
         api_hash = "3e0cb5efcd52300aec5994fdfc5bdc16"
         device_model = "Samsung SM-G998B"
         system_version = "SDK 31"
-        app_version = "8.4.1 (2522)"
+        app_version = "10.1.1"
         lang_code = "en"
         system_lang_code = "en-US"
         lang_pack = "android"
